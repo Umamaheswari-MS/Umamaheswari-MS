@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Student<br>🌱 I’m learning Java<br>👨‍💻 All of my projects are available in this account<br>💬 Ask me about Java,SQL,Python<br>📫 How to reach me umamaheswarims2002@gmail.com
+🔭 I’m currently a Student<br>🌱 I’m learning Java<br>👨‍💻 All of my projects are available in this account<br>💬 Ask me about Java,SQL,Python<br>📫 How to reach me umamaheswarims2002@gmail.com
 
 
 ## 🌐 Socials:
